@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap@import');
+
+.bg-container {
+    background-image: url(https://thumbs.dreamstime.com/z/vintage-movie-background-concept-editing-final-cut-cinematic-color-effect-unrolled-mm-filmstrip-clapper-board-scissors-98912883.jpg);
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: #ffffe5;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 5px;
+}
+
+.button {
+    color: purple;
+    background-color: black;
+    width: 138px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 20px;
+    font-family: fantasy;
+}
+
+.main-heading {
+    font-family: "BrushScript";
+    font-size: bold;
+    color: black;
+}
+
+.paragraph {
+    font-family: Courier;
+    color: #1a0001;
+}
+
+.favourite-places-bg-container {
+    background-image: url("https://png.pngtree.com/element_our/20200611/ourmid/pngtree-vintage-textured-rough-border-image_2252727.jpg");
+
+    background-size: cover;
+    padding: 24px;
+}
+
+.favourite-places-heading {
+    color: #8d4004;
+    font-family: courier;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.favourite-place-card-container {
+    background-color: black;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 15px;
+}
+
+.favourite-place-card-heading {
+    color: #ff7f50;
+    font-family: fantasy;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.favourite-place-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.favourite-place-card-image {
+    width: 80px;
+    height: 100px;
+}
+
+.favourite-place-card-text-container {
+    margin-right: 15px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://images.rawpixel.com/image_250/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcC00MTMtdGVkNTk4My1qai1hLWxfMS5qcGc.jpg");
+
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: BLACK;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: TOMATO;
+    font-family: CURSIVE;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
